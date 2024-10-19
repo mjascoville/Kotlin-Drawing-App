@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Kotlin-Drawing-App">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kotlin_Drawing_App</output-path>
+    <root id="root">
+      <element id="archive" name="Kotlin_Drawing_App.jar">
+        <element id="module-output" name="Kotlin-Drawing-App" />
+      </element>
+    </root>
+  </artifact>
+</component>
