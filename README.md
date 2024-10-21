@@ -14,14 +14,14 @@ Here is a link to a video demo of the project:
 
 I developed this program using the IntelliJ IDE.
 
-I wrote the program in Kotlin, and I used Swift to handle the graphics and the window display.
+I wrote the program in Kotlin, and I used Swing to handle the graphics and the window display.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
 - [Kotlin Language](https://kotlinlang.org/docs/getting-started.html)
-- [Using Swift with Kotlin](https://kotlinlang.org/docs/native-objc-interop.html)
+- [Using Swing with Kotlin](https://kotlin-quick-reference.com/252-R-swing-example.html)
 
 # Future Work
 
